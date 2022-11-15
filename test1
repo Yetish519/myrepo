@@ -1,6 +1,0 @@
-Move/Rename files or folders
-mv - cmd used to rename file or directory and also used to move the
-file or directories from source to destination path.
-mv oldfilenmae newfilename - renaming a file
-mv olddirectoryname newdirectoryname - renami
-
