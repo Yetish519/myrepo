@@ -1,0 +1,3 @@
+grep : is used to search a pattern in a file
+syntax: grep pattern filename or grep "pattern" filename 
+recommended to use pattern within "" ie, 2nd syntax
