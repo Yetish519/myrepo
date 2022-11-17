@@ -1,6 +1,6 @@
 #!/bin/bash
 for i in $@
 do 
-	echo "$i this is jnanaswaroop k r"
+	echo "$i This is Yashas"
 done
 
