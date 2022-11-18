@@ -9,4 +9,4 @@ do
                 total=`expr $total - 1`
         fi
 done</home/ubuntu/output
-
+changes done by yetish
