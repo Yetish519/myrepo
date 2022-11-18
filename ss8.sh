@@ -6,5 +6,5 @@ while read line
 do
 		b=`echo $line | wc -c`
 		a=`expr $a + 1`
-	echo "The number of characters in each line is $b"
+	echo "ch in each line is $b"
 done < $file
